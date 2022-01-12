@@ -31,7 +31,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 
 ## Zasoby ze skanami
 + Metryki Genalodzy - https://metryki.genealodzy.pl/ 
-+ Metryki Genbaza - https://metryki.genbaza.pl/ (wymaga logowania przez konto + utworzone na portalu https://www.genpol.com/) 
++ Metryki Genbaza - https://metryki.genbaza.pl/ (wymaga logowania przez konto utworzone na portalu https://www.genpol.com/) 
 + FamilySearch - https://www.familysearch.org/pl/ 
 + Archiwa Państwowe - https://www.szukajwarchiwach.gov.pl/ 
 + Agad - https://agad.gov.pl/ lista: https://agad.gov.pl/?page_id=1599 
@@ -48,3 +48,12 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Ancestry - https://www.ancestry.com/ 
 + Geni - https://www.geni.com/ 
 + FamilySearch - https://www.familysearch.org/ 
+
+## Przydatne linki w poszukiwaniach
+### Poszukiwanie miejscowości
++ Wykaz miejscowości [2012 rok] https://static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf
++ Słownik geograficzny Królestwa Polskiego [1880 rok] http://dir.icm.edu.pl/Slownik_geograficzny/ 
++ Internetowy Atlas Polski Niepodległej https://atlas1918.ihpan.edu.pl/#map=6.00/2374444.74/6858193.66/1
++ Atlas FOntium http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl
++ Geneteka zakres zindeksowanych materiałów https://www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7
++ Mapa parafii rzymskokatolickich https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12
