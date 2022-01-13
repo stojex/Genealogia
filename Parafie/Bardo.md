@@ -1,4 +1,10 @@
 # Bardo
+## Nazwiska
++ Łuczak
++ Mizerkiewicz
++ Piątek
++ Stanisławski / Stanisławska
++ Wański / Wańska
 
 ## Linki
 + Archiwum Państwowe w Poznaniu: Akta stanu cywilnego Parafii Rzymskokatolickiej Bardo (pow. wrzesiński) https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/20597 

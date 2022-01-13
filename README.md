@@ -1,7 +1,18 @@
 # Genealogia - mój notatnik
 ## Moje regiony zainteresowań
 
-+ [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
++ Wielkopolska:
+    + [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
++ Małopolskie:
+    + Imbramowice
+    + Skała
+    + Minoga
+    + Zadroże
++ Łódzkie:
+    + Mieleszyn
+    + Skomlin
++ Ukraina (Kresy):
+    + [Toporów](Parafie/Toporów.md)
 
 ## Od czego zacząć
 Na początku swojej przygody z Genealogią koniecznie trzeba zacząć od rozmowy z rodzicami i dziadkami (lub ich rodzeństwem, jeśli Twoi dziadkowie nie żyją). Informacje, które zbieramy podczas rozmowy to przede wszystkim imiona, nazwiska, miejscowości skąd pochodzili, wiek (lub rok/daty urodzenia) jeśli pamiętają. Wypytujemy również koniecznie o rodzeństwo dziadków/pradziadków itd. Wszystko notujemy! Często w rodzinnych “archiwach” (czytaj pudełku po butach, na strychu ;)) dziadkowie przechowują różne pamiątki rodzinne, akty dokumenty. Pytamy się o to, przeglądamy i jeśli mamy możliwość robimy zdjęcia czy skanujemy. Często możemy znaleźć akty zgonu, czy małżeństwa, w których są cenne dla nas informacje.
