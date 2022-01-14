@@ -28,6 +28,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Projekt Kurpie - https://www.projektkurpie.pl/wyszukiwarka/ 
 + Lubgens (lubelskie) - https://regestry.lubgens.eu/ 
 + https://siliusradicum.pl/indeksy-metryk/
++ Genealogia w Archiwach https://www.genealogiawarchiwach.pl/
 
 ## Zasoby ze skanami
 + Metryki Genalodzy - https://metryki.genealodzy.pl/ 
@@ -36,6 +37,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Archiwa Państwowe - https://www.szukajwarchiwach.gov.pl/ 
 + Agad - https://agad.gov.pl/ lista: https://agad.gov.pl/?page_id=1599 
 + https://siliusradicum.pl/ksiegi-metrykalne/ 
++ Genealogia w Archiwach https://www.genealogiawarchiwach.pl/
 
 ## Gdzie budować swoje drzewo
 ### Lokalnie na komputrze (offline)
@@ -54,6 +56,6 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Wykaz miejscowości [2012 rok] https://static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf
 + Słownik geograficzny Królestwa Polskiego [1880 rok] http://dir.icm.edu.pl/Slownik_geograficzny/ 
 + Internetowy Atlas Polski Niepodległej https://atlas1918.ihpan.edu.pl/#map=6.00/2374444.74/6858193.66/1
-+ Atlas FOntium http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl
++ Atlas Fontium http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl
 + Geneteka zakres zindeksowanych materiałów https://www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7
 + Mapa parafii rzymskokatolickich https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12
