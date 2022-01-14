@@ -16,7 +16,7 @@ Wieś (dawniej miasto) w zachodniej Ukrainie w rejonie buskim obwodu lwowskiego.
 + FamilySearch (skany z CDIAL i Archiwum "Baziaka"): https://www.familysearch.org/search/catalog/results?count=20&query=%2Bsubject_id%3A737830
 
 ## Indeksy
-W trakcie przygotowywania przez mnie
+W trakcie przygotowywania przeze mnie
 
 ## Linki
 + Polska 1926. Portret zbiorowy II RP:
