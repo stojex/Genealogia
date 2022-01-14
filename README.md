@@ -3,14 +3,38 @@
 
 + Wielkopolska:
     + [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
+    + [Budzisław](Parafie/Budzisław.md)
+    + [Błociszewo](Parafie/Błociszewo.md)
+    + [Czacz](Parafie/Czacz.md)
+    + [Czeszewo](Parafie/Czeszewo.md)
+    + [Gosławice](Parafie/Gosławice.md)
+    + [Gozdowo](Parafie/Gozdowo.md)
+    + [Grabienice](Parafie/Grabienice.md)
+    + [Kawnice](Parafie/Kawnice.md)
+    + [Królików](Parafie/Królików.md)
+    + [Morzysław](Parafie/Morzysław.md)
+    + [Murowana Goślina](Parafie/Murowana_Goślina.md)
+    + [Murzynowo Kościelne](Parafie/Murzynowo_Kościelne.md)
+    + [Rychwał](Parafie/Rychwał.md)
+    + [Rzgów](Parafie/Rzgów.md)
+    + [Skarboszewo](Parafie/Skarboszewo.md)
+    + [Sokolniki (pow. wrzesiński)](Parafie/Sokolniki.md)
+    + [Staw (pow. słupecki)](Parafie/Staw.md)
+    + [Śmigiel](Parafie/Śmigiel.md)
+    + [Trąbczyn](Parafie/Trąbczyn.md)
+    + [Włoszakowice](Parafie/Włoszakowice.md)
+    + [Wszembórz](Parafie/Wszembórz.md)
+    + [Zagórów](Parafie/Zagórów.md)
+    + [Żerków](Parafie/Żerków.md)
 + Małopolskie:
-    + Imbramowice
-    + Skała
-    + Minoga
-    + Zadroże
+    + [Imbramowice](Parafie/Imbramowice.md)
+    + [Minoga](Parafie/Minoga.md)
+    + [Sąspów](Parafie/Sąspów.md)
+    + [Skała](Parafie/Skała.md)
+    + [Zadroże](Parafie/Zadroże.md)
 + Łódzkie:
-    + Mieleszyn
-    + Skomlin
+    + [Mieleszyn](Parafie/Mieleszyn.md)
+    + [Skomlin](Parafie/Skomlin.md)
 + Ukraina (Kresy):
     + [Toporów](Parafie/Toporów.md)
 
@@ -50,7 +74,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Metryki Genbaza - https://metryki.genbaza.pl/ (wymaga logowania przez konto utworzone na portalu https://www.genpol.com/) 
 + FamilySearch - https://www.familysearch.org/pl/ 
 + Archiwa Państwowe - https://www.szukajwarchiwach.gov.pl/ 
-+ Agad - https://agad.gov.pl/ lista: https://agad.gov.pl/?page_id=1599 
++ Agad - https://agad.gov.pl/, Spis zespołów: https://agad.gov.pl/?page_id=1599 
 + https://siliusradicum.pl/ksiegi-metrykalne/ 
 + Genealogia w Archiwach https://www.genealogiawarchiwach.pl/
 
@@ -76,6 +100,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Mapa parafii rzymskokatolickich https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12
 + Skorowidz miejscowości Rzeczypospolitej Polskiej z oznaczeniem terytorjalnie im właściwych władz i urzędów oraz urządzeń komunikacyjnych [1933 rok] https://www.wbc.poznan.pl/dlibra/publication/7126/edition/12786
 + Indeks miejscowości Archidiecezji Gnieźnieńskiej na podstawie "Rocznik Archidiecezji Gnieźnieńskiej i Poznańskiej Rok 1931" http://wtg-gniazdo.org/upload/opracowania/miejscowosci_arch.gniez_1931.pdf
++ Mapa sieci parafialnej Rzeczypospolitej AD 1772 http://mapy.lubgens.eu/1772.html
++ Skorowidz W. Ks. Poznańskiego, niezbędny dla każdego podręcznik obejmujący zupełny i dokładny spis wszystkich, w księdze pocztowej wykazanych blizko 7000 miejscowości z podaniem także nazw urzędowych, parafii, poczty, ludności miast, liczby parafian i właścicieli Polaków [1909 rok] https://www.wbc.poznan.pl/dlibra/publication/1884/edition/3143?
 
 ## Bilblioteki cyfrowe
 + Wilekopolska Biblioteka Cyfrowa https://www.wbc.poznan.pl/dlibra
