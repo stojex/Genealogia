@@ -1,4 +1,19 @@
 # Genealogia - mój notatnik
+## Moje regiony zainteresowań
+
++ Wielkopolska:
+    + [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
++ Małopolskie:
+    + Imbramowice
+    + Skała
+    + Minoga
+    + Zadroże
++ Łódzkie:
+    + Mieleszyn
+    + Skomlin
++ Ukraina (Kresy):
+    + [Toporów](Parafie/Toporów.md)
+
 ## Od czego zacząć
 Na początku swojej przygody z Genealogią koniecznie trzeba zacząć od rozmowy z rodzicami i dziadkami (lub ich rodzeństwem, jeśli Twoi dziadkowie nie żyją). Informacje, które zbieramy podczas rozmowy to przede wszystkim imiona, nazwiska, miejscowości skąd pochodzili, wiek (lub rok/daty urodzenia) jeśli pamiętają. Wypytujemy również koniecznie o rodzeństwo dziadków/pradziadków itd. Wszystko notujemy! Często w rodzinnych “archiwach” (czytaj pudełku po butach, na strychu ;)) dziadkowie przechowują różne pamiątki rodzinne, akty dokumenty. Pytamy się o to, przeglądamy i jeśli mamy możliwość robimy zdjęcia czy skanujemy. Często możemy znaleźć akty zgonu, czy małżeństwa, w których są cenne dla nas informacje.
 
@@ -59,3 +74,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Atlas Fontium http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl
 + Geneteka zakres zindeksowanych materiałów https://www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7
 + Mapa parafii rzymskokatolickich https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12
++ Skorowidz miejscowości Rzeczypospolitej Polskiej z oznaczeniem terytorjalnie im właściwych władz i urzędów oraz urządzeń komunikacyjnych [1933 rok] https://www.wbc.poznan.pl/dlibra/publication/7126/edition/12786
++ Indeks miejscowości Archidiecezji Gnieźnieńskiej na podstawie "Rocznik Archidiecezji Gnieźnieńskiej i Poznańskiej Rok 1931" http://wtg-gniazdo.org/upload/opracowania/miejscowosci_arch.gniez_1931.pdf
+
+## Bilblioteki cyfrowe
++ Wilekopolska Biblioteka Cyfrowa https://www.wbc.poznan.pl/dlibra
