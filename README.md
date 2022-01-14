@@ -33,8 +33,8 @@
     + [Skała](Parafie/Skała.md)
     + [Zadroże](Parafie/Zadroże.md)
 + Łódzkie:
-    + [Mieleszyn](Parafie/Mieleszyn.md)
-    + [Skomlin](Parafie/Skomlin.md)
+    + [Mieleszyn (pow. wieruszowski)](Parafie/Mieleszyn.md)
+    + [Skomlin (pow. wieluński)](Parafie/Skomlin.md)
 + Ukraina (Kresy):
     + [Toporów](Parafie/Toporów.md)
 
