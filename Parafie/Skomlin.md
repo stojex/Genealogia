@@ -11,9 +11,10 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieluńskim, w g
 + Szynczewski
 
 ## Metryki
-+ Metryki (AP Łódź): https://metryki.genealodzy.pl/ar3-zs1667d
++ PTG Metryki (AP Łódź): https://metryki.genealodzy.pl/ar3-zs1667d
 + Genbaza (AP Łódź): https://metryki.genbaza.pl/genbaza,list,51861,1
 + FamilySearch (AP Łódź, AA Łódź, AA Częstochowa): https://www.familysearch.org/search/catalog/results?count=20&query=%2Bsubject_id%3A374110
++ Szukaj w Archiwach: Akta stanu cywilnego Parafii Rzymskokatolickiej w Skomlinie: https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/74074
 
 ## Indeksy
 + Geneteka: https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=05ld&rid=4282

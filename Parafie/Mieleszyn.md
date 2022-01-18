@@ -8,9 +8,10 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieruszowskim, w
 + Zuzek
 
 ## Metryki
-+ Metryki (AP Łódź): https://metryki.genealodzy.pl/ar3-zs1584d
++ PTG Metryki (AP Łódź): https://metryki.genealodzy.pl/ar3-zs1584d
 + Genbaza (AP Łódź): https://metryki.genbaza.pl/genbaza,list,55801,1
 + FamilySearch (AP Łódź, AP Kalisz, AA Częstochowa): https://www.familysearch.org/search/catalog/results?count=20&query=%2Bsubject_id%3A380440
++ Szukaj w Archiwach: Akta stanu cywilnego Parafii Rzymskokatolickiej w Mieleszynie: https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/73991 
 
 ## Indeksy
 + Geneteka: https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=05ld&rid=6673
@@ -24,6 +25,5 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieruszowskim, w
 + BillionGraves: https://billiongraves.pl/cemetery/Mieleszyn-cmentarz/311620
 + KZM: https://parafie.genealodzy.pl/index.php?op=pr&pid=5043
 + Spis ludności 1790-1791: https://gladala.com/mieleszyn-spis-ludnosci-z-1790-1791-roku/
-pid=5043
 + Spis ludności 1791 https://gladala.com/parafia-mieleszyn-spis-ludnosci-z-1791-roku/
 + Projek Prosna na FB: https://www.facebook.com/groups/ProjektProsna/ 
