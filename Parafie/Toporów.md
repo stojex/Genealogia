@@ -12,8 +12,9 @@ Wieś (dawniej miasto) w zachodniej Ukrainie w rejonie buskim obwodu lwowskiego.
 + Zabawa
 
 ## Metryki
-+ AGAD: http://www.agad.gov.pl/inwentarze/KLwo301new.xml
-+ FamilySearch (skany z CDIAL i Archiwum "Baziaka"): https://www.familysearch.org/search/catalog/results?count=20&query=%2Bsubject_id%3A737830
++ AGAD: http://www.agad.gov.pl/inwentarze/KLwo301new.xml :
+    + 1827-1828 UMZ http://agadd.home.net.pl/metrykalia/301/sygn.%201383/indeks.htm
+    + 1871, 1872, 1880, 1892 UMZ http://agadd.home.net.pl/metrykalia/301/sygn.%201808/indeks.htm
 + CDIAL: https://tsdial.archives.gov.ua/index16.html :
     + 1817-1824 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-468.pdf
     + 1825-1832 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-469.pdf
@@ -22,6 +23,7 @@ Wieś (dawniej miasto) w zachodniej Ukrainie w rejonie buskim obwodu lwowskiego.
     + 1846-1850 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-472.pdf
     + 1851-1859 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-473.pdf
     + 1860-1867 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-474.pdf
++ FamilySearch (skany z CDIAL i Archiwum "Baziaka"): https://www.familysearch.org/search/catalog/results?count=20&query=%2Bsubject_id%3A737830
 
 ## Indeksy
 W trakcie przygotowywania przeze mnie
