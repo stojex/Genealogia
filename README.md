@@ -105,3 +105,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 
 ## Bilblioteki cyfrowe
 + Wilekopolska Biblioteka Cyfrowa https://www.wbc.poznan.pl/dlibra
+
+## Edycja zdjęć
++ Usuwanie tła https://www.remove.bg/
++ Kolorowanie starych zdjęć https://colourise.sg/
++ Restauracja twarzy na starych zdjęciach https://huggingface.co/spaces/akhaliq/GFPGAN
