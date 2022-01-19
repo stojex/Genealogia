@@ -26,4 +26,4 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieruszowskim, w
 + KZM: https://parafie.genealodzy.pl/index.php?op=pr&pid=5043
 + Spis ludności 1790-1791: https://gladala.com/mieleszyn-spis-ludnosci-z-1790-1791-roku/
 + Spis ludności 1791 https://gladala.com/parafia-mieleszyn-spis-ludnosci-z-1791-roku/
-+ Projek Prosna na FB: https://www.facebook.com/groups/ProjektProsna/ 
++ Projekt Prosna na FB: https://www.facebook.com/groups/ProjektProsna/ 
