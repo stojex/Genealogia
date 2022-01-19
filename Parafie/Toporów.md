@@ -14,6 +14,14 @@ Wieś (dawniej miasto) w zachodniej Ukrainie w rejonie buskim obwodu lwowskiego.
 ## Metryki
 + AGAD: http://www.agad.gov.pl/inwentarze/KLwo301new.xml
 + FamilySearch (skany z CDIAL i Archiwum "Baziaka"): https://www.familysearch.org/search/catalog/results?count=20&query=%2Bsubject_id%3A737830
++ CDIAL: https://tsdial.archives.gov.ua/index16.html :
+    + 1817-1824 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-468.pdf
+    + 1825-1832 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-469.pdf
+    + 1833-1839 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-470.pdf
+    + 1840-1845 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-471.pdf
+    + 1846-1850 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-472.pdf
+    + 1851-1859 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-473.pdf
+    + 1860-1867 UMZ https://tsdial.archives.gov.ua/EA%20pdf/618/618-2-474.pdf
 
 ## Indeksy
 W trakcie przygotowywania przeze mnie
