@@ -110,3 +110,6 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Usuwanie tła https://www.remove.bg/
 + Kolorowanie starych zdjęć https://colourise.sg/
 + Restauracja twarzy na starych zdjęciach https://huggingface.co/spaces/akhaliq/GFPGAN
+
+## Mapy historyczne
++ Mapire https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org
