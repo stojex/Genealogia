@@ -28,3 +28,6 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieruszowskim, w
 + Spis ludności 1791 https://gladala.com/parafia-mieleszyn-spis-ludnosci-z-1791-roku/
 + Projekt Prosna na FB: https://www.facebook.com/groups/ProjektProsna/ 
 + Zdjęcia Spisu ludności z 1790-1791 roku autrstwa p. Piotra Glądały z Projektu Prosna: https://www.flickr.com/photos/191646849@N06/albums/72157717704621683
+
+## Lokalizajca
+![Mieleszyn z Internetowego Atlasu Polski Niepodległej](img/mieleszyn_iapn.png)

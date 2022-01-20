@@ -25,3 +25,6 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieluńskim, w g
 + BillionGraves: https://billiongraves.pl/cemetery/Skomlin-Cmentarz-Rzymsko-Katolicki/214479 
 + KZM: https://parafie.genealodzy.pl/index.php?op=pr&pid=7699
 + Spis lubności z 1790: https://gladala.com/parafia-skomlin-spis-ludnosci-z-1791-roku/
+
+## Lokalizajca
+![Skomlin z Internetowego Atlasu Polski Niepodległej](img/skomlin_iapn.png)

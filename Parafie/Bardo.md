@@ -16,3 +16,6 @@
 ## Linki
 + Billiongraves: Zdjęcia i wyszukiwarka z cmentarza parafialnego https://billiongraves.pl/cemetery/Bardo-cmentarz/312276
 + Wykaz uczniów z nieistniejącej szkoły powszechnej w Bardzie k. Wrześni, uczęszczających w latach 1874-1923 - oprac. Jarosław Górski http://wtg-gniazdo.org/upload/opracowania/uczniowie_Bardo.xls
+
+## Lokalizajca
+![Bardo z Internetowego Atlasu Polski Niepodległej](img/bardo_iapn.png)
