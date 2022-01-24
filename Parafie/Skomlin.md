@@ -19,12 +19,15 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieluńskim, w g
 ## Indeksy
 + Geneteka: https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=05ld&rid=4282
 
+## Spis ludności
++ Indeks spis lubności z 1790: https://gladala.com/parafia-skomlin-spis-ludnosci-z-1791-roku/
++ Zdjęcia spisu ludności z 1790-1791 roku autrstwa p. Piotra Glądały z Projektu Prosna: https://www.flickr.com/photos/191646849@N06/sets/72177720296137429
+
 ## Linki
 + Słownik geograficzny Królestwa Polskiego: http://dir.icm.edu.pl/pl/Slownik_geograficzny/Tom_X/691
 + Genealogia Wieluń na FB: https://www.facebook.com/groups/GenealogiaWielun
 + BillionGraves: https://billiongraves.pl/cemetery/Skomlin-Cmentarz-Rzymsko-Katolicki/214479 
 + KZM: https://parafie.genealodzy.pl/index.php?op=pr&pid=7699
-+ Spis lubności z 1790: https://gladala.com/parafia-skomlin-spis-ludnosci-z-1791-roku/
 
 ## Lokalizajca
 ![Skomlin z Internetowego Atlasu Polski Niepodległej](img/skomlin_iapn.png)

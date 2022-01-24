@@ -20,14 +20,17 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieruszowskim, w
     + Małżeństwa: https://gladala.com/mieleszyn-malzenstwa-od-1747-roku/
     + Zgony: https://gladala.com/mieleszyn-zgony-1747/
 
+## Spis ludności
++ Indeks spisu ludności 1790-1791: https://gladala.com/mieleszyn-spis-ludnosci-z-1790-1791-roku/
++ Indeks spisu ludności 1791 https://gladala.com/parafia-mieleszyn-spis-ludnosci-z-1791-roku/
++ Zdjęcia spisu ludności z 1790-1791 roku autrstwa p. Piotra Glądały z Projektu Prosna: https://www.flickr.com/photos/191646849@N06/albums/72157717704621683
+
 ## Linki
 + Słownik geograficzny Królestwa Polskiego: http://dir.icm.edu.pl/pl/Slownik_geograficzny/Tom_VI/342
 + BillionGraves: https://billiongraves.pl/cemetery/Mieleszyn-cmentarz/311620
 + KZM: https://parafie.genealodzy.pl/index.php?op=pr&pid=5043
-+ Spis ludności 1790-1791: https://gladala.com/mieleszyn-spis-ludnosci-z-1790-1791-roku/
-+ Spis ludności 1791 https://gladala.com/parafia-mieleszyn-spis-ludnosci-z-1791-roku/
 + Projekt Prosna na FB: https://www.facebook.com/groups/ProjektProsna/ 
-+ Zdjęcia Spisu ludności z 1790-1791 roku autrstwa p. Piotra Glądały z Projektu Prosna: https://www.flickr.com/photos/191646849@N06/albums/72157717704621683
+
 
 ## Lokalizajca
 ![Mieleszyn z Internetowego Atlasu Polski Niepodległej](img/mieleszyn_iapn.png)
