@@ -45,7 +45,7 @@ Na początku swojej przygody z Genealogią koniecznie trzeba zacząć od rozmowy
 
 ## Cmentarze on-line
 Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i zgonów swoich krewnych. Jeśli nie mamy możliwości jechać, można spróbować znaleźć listę grobów w internecie. Przydatne linki poniżej.
-+ Grobonet (cała Polska) - https://grobonet.com/
++ Grobonet (cała Polska) - [grobonet.com](https://grobonet.com)
 + BillionGraves (cały świat) - https://billiongraves.pl/
 + Cmentarnik (różne polskie) - http://www.cmentarnik.net/ 
 + WebCmentarz (różne polskie) - https://webcmentarz.pl/realizacje.html
