@@ -6,6 +6,7 @@ Wieś (dawniej miasto) w zachodniej Ukrainie w rejonie buskim obwodu lwowskiego.
 
 ## Nazwiska
 + Babijczuk
++ Bartoszek
 + Byra
 + Kowalczuk
 + Szczygielski / Szczygielska
