@@ -1,3 +1,4 @@
+[< główna](../README.md)
 # Skomlin
 Wieś w Polsce położona w województwie łódzkim, w powiecie wieluńskim, w gminie Skomlin.
 

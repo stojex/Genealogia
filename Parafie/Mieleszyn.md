@@ -1,3 +1,4 @@
+[< główna](../README.md)
 # Mieleszyn
 Wieś w Polsce położona w województwie łódzkim, w powiecie wieruszowskim, w gminie Bolesławiec.
 

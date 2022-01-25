@@ -1,3 +1,4 @@
+[< główna](../README.md)
 # Śmigiel
 ## Nazwiska
 

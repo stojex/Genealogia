@@ -1,3 +1,4 @@
+[< główna](../README.md)
 # Toporów (ukr. топорів, Toporiw)
 Wieś (dawniej miasto) w zachodniej Ukrainie w rejonie buskim obwodu lwowskiego. W II Rzeczypospolitej miejscowość była siedzibą gminy wiejskiej Toporów w powiecie radziechowskim województwa tarnopolskiego.
 
