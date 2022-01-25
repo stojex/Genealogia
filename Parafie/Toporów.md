@@ -35,3 +35,11 @@ W trakcie przygotowywania
     + Toporów [http://www.polska1926.pl/karty/19097](http://www.polska1926.pl/karty/19097)
     + Stołpin [http://www.polska1926.pl/karty/19085](http://www.polska1926.pl/karty/19085) 
 + Na styku kultur i narodów. Galicyjskie miasta i miasteczka w józefińskim katastrze gruntowym, Tom VIII: Kamionka Strumiłowa i Toporów, opracował Krzysztof Ślusarek, Kraków 2018 (ISBN 978- 83-65080-94-3; DOI: 10.32021/2018KS45277KS) [http://www.miasta-galicji.pl/assets/materialy/Tom_08_Kamionka_Toporow.pdf](http://www.miasta-galicji.pl/assets/materialy/Tom_08_Kamionka_Toporow.pdf)
+
+## Mapy
+1926 rok:
+![Toporów 1926](img/toporów_mapa_1926.png)
+1928 rok: 
+![Toporów 1928](img/toporów_okolice_mapa_1928.png)
+1934 rok:
+![Toporów 1934](img/toporów_okolice_mapa_1934.png)
