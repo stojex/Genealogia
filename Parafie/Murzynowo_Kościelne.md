@@ -5,6 +5,6 @@
 ## Metryki
 
 ## Indeksy
-Geneteka: https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=10920
+Geneteka: [geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=10920](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=10920)
 
 ## Linki

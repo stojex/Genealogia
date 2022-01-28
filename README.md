@@ -96,16 +96,16 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 
 ## Przydatne linki w poszukiwaniach
 ### Poszukiwanie miejscowości
-+ Wykaz miejscowości [2012 rok] [https://static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf](https://static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf)
-+ Słownik geograficzny Królestwa Polskiego [1880 rok] [http://dir.icm.edu.pl/Slownik_geograficzny/](http://dir.icm.edu.pl/Slownik_geograficzny/)
-+ Internetowy Atlas Polski Niepodległej [https://atlas1918.ihpan.edu.pl/](https://atlas1918.ihpan.edu.pl/#map=6.00/2374444.74/6858193.66/1)
-+ Atlas Fontium [http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl](http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl)
-+ Geneteka zakres zindeksowanych materiałów [https://www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7](https://www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7)
-+ Mapa parafii rzymskokatolickich [https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12](https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12)
-+ Skorowidz miejscowości Rzeczypospolitej Polskiej z oznaczeniem terytorjalnie im właściwych władz i urzędów oraz urządzeń komunikacyjnych [1933 rok] [https://www.wbc.poznan.pl/dlibra/publication/7126/edition/12786](https://www.wbc.poznan.pl/dlibra/publication/7126/edition/12786)
-+ Indeks miejscowości Archidiecezji Gnieźnieńskiej na podstawie "Rocznik Archidiecezji Gnieźnieńskiej i Poznańskiej Rok 1931" [http://wtg-gniazdo.org/upload/opracowania/miejscowosci_arch.gniez_1931.pdf](http://wtg-gniazdo.org/upload/opracowania/miejscowosci_arch.gniez_1931.pdf)
-+ Mapa sieci parafialnej Rzeczypospolitej AD 1772 [http://mapy.lubgens.eu/1772.html](http://mapy.lubgens.eu/1772.html)
-+ Skorowidz W. Ks. Poznańskiego, niezbędny dla każdego podręcznik obejmujący zupełny i dokładny spis wszystkich, w księdze pocztowej wykazanych blizko 7000 miejscowości z podaniem także nazw urzędowych, parafii, poczty, ludności miast, liczby parafian i właścicieli Polaków [1909 rok] [https://www.wbc.poznan.pl/dlibra/publication/1884/edition/3143?](https://www.wbc.poznan.pl/dlibra/publication/1884/edition/3143?)
++ Wykaz miejscowości [2012 rok] [static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf](https://static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf)
++ Słownik geograficzny Królestwa Polskiego [1880 rok] [dir.icm.edu.pl/Slownik_geograficzny/](http://dir.icm.edu.pl/Slownik_geograficzny/)
++ Internetowy Atlas Polski Niepodległej [atlas1918.ihpan.edu.pl/](https://atlas1918.ihpan.edu.pl/#map=6.00/2374444.74/6858193.66/1)
++ Atlas Fontium [hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl](http://hgisb.kul.lublin.pl/azm/pmapper-4.2.0/map_default.phtml?resetsession=ALL&config=wyznaniowa&language=pl)
++ Geneteka zakres zindeksowanych materiałów [www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7](https://www.google.com/maps/d/embed?mid=1Ig20G_J_1vRHY4aYPmyLj2VqfiDsLkNJ&ll=52.27638338264978%2C21.297586823724163&z=7)
++ Mapa parafii rzymskokatolickich [www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12](https://www.google.com/maps/d/viewer?hl=pl&mid=1zwYwcXHsVgUW5cDUiPBnALYGkvE&ll=52.32929611060897%2C17.654495265904156&z=12)
++ Skorowidz miejscowości Rzeczypospolitej Polskiej z oznaczeniem terytorjalnie im właściwych władz i urzędów oraz urządzeń komunikacyjnych [1933 rok] [www.wbc.poznan.pl/dlibra/publication/7126/edition/12786](https://www.wbc.poznan.pl/dlibra/publication/7126/edition/12786)
++ Indeks miejscowości Archidiecezji Gnieźnieńskiej na podstawie "Rocznik Archidiecezji Gnieźnieńskiej i Poznańskiej Rok 1931" [wtg-gniazdo.org/upload/opracowania/miejscowosci_arch.gniez_1931.pdf](http://wtg-gniazdo.org/upload/opracowania/miejscowosci_arch.gniez_1931.pdf)
++ Mapa sieci parafialnej Rzeczypospolitej AD 1772 [mapy.lubgens.eu/1772.html](http://mapy.lubgens.eu/1772.html)
++ Skorowidz W. Ks. Poznańskiego, niezbędny dla każdego podręcznik obejmujący zupełny i dokładny spis wszystkich, w księdze pocztowej wykazanych blizko 7000 miejscowości z podaniem także nazw urzędowych, parafii, poczty, ludności miast, liczby parafian i właścicieli Polaków [1909 rok] [www.wbc.poznan.pl/dlibra/publication/1884/edition/3143?](https://www.wbc.poznan.pl/dlibra/publication/1884/edition/3143?)
 
 ## Bilblioteki cyfrowe
 + Wilekopolska Biblioteka Cyfrowa [www.wbc.poznan.pl/dlibra](https://www.wbc.poznan.pl/dlibra)
@@ -114,8 +114,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Usuwanie tła [remove.bg](https://www.remove.bg/)
 + Kolorowanie starych zdjęć [colourise.sg](https://colourise.sg/)
 + Restauracja twarzy na starych zdjęciach [huggingface.co/spaces/akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
-+ Kolorowanie i odświeżanie kolorów zdjęć [https://www.myheritage.pl/incolor](https://www.myheritage.pl/incolor)
++ Kolorowanie i odświeżanie kolorów zdjęć [/www.myheritage.pl/incolor](https://www.myheritage.pl/incolor)
 
 ## Mapy historyczne
-+ Mapire [https://maps.arcanum.com/en/map/europe-19century-secondsurvey/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org)
-+ Map of South Prussia - 1802-1803 by Gilly [https://www.sggee.org/research/gilly_maps/south_prussia_map.html](https://www.sggee.org/research/gilly_maps/south_prussia_map.html)
++ Mapire [maps.arcanum.com/en/map/europe-19century-secondsurvey/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org)
++ Map of South Prussia - 1802-1803 by Gilly [www.sggee.org/research/gilly_maps/south_prussia_map.html](https://www.sggee.org/research/gilly_maps/south_prussia_map.html)
