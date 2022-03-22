@@ -28,7 +28,7 @@ Wieś w Polsce położona w województwie łódzkim, w powiecie wieluńskim, w g
 + Słownik geograficzny Królestwa Polskiego: [dir.icm.edu.pl/pl/Slownik_geograficzny/Tom_X/691](http://dir.icm.edu.pl/pl/Slownik_geograficzny/Tom_X/691)
 + Genealogia Wieluń na FB: [www.facebook.com/groups/GenealogiaWielun](https://www.facebook.com/groups/GenealogiaWielun)
 + BillionGraves: [billiongraves.pl/cemetery/Skomlin-Cmentarz-Rzymsko-Katolicki/214479](https://billiongraves.pl/cemetery/Skomlin-Cmentarz-Rzymsko-Katolicki/214479)
-+ KZM: https://parafie.genealodzy.pl/index.php?op=pr&pid=7699
++ KZM: [https://parafie.genealodzy.pl/index.php?op=pr&pid=7699](https://parafie.genealodzy.pl/index.php?op=pr&pid=7699)
 + Projekt Prosna na FB: [www.facebook.com/groups/ProjektProsna/](https://www.facebook.com/groups/ProjektProsna/)
 
 ## Lokalizajca
