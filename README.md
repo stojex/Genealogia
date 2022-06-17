@@ -55,6 +55,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Cmentarze24- [cmentarze24.pl](https://cmentarze24.pl)
 + Genealogiczne.pl- [genealogiczne.pl](http://genealogiczne.pl/wyszukiwarka-grobow)
 + Polegli1939- [polegli1939.pl](https://polegli1939.pl/strona/)
++ Cmentarze juszyk.org [www.cmentarze.juszczyk.org](http://www.cmentarze.juszczyk.org/)
 + Inne systemy cmentarne - najlepiej szukać w google np. Staw cmentarz, Września cmentarz itp.
 
 ## Zasoby z indeksami
