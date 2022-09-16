@@ -55,6 +55,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Cmentarze24- [cmentarze24.pl](https://cmentarze24.pl)
 + Genealogiczne.pl- [genealogiczne.pl](http://genealogiczne.pl/wyszukiwarka-grobow)
 + Polegli1939- [polegli1939.pl](https://polegli1939.pl/strona/)
++ Cmentarze juszyk.org [www.cmentarze.juszczyk.org](http://www.cmentarze.juszczyk.org/)
 + Inne systemy cmentarne - najlepiej szukać w google np. Staw cmentarz, Września cmentarz itp.
 
 ## Zasoby z indeksami
@@ -73,8 +74,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + FB Polish Genealogy Group - wyszukiwarka indeksów - [polishgenealogy.indeksy.net](https://polishgenealogy.indeksy.net/)
 
 ## Zasoby ze skanami
-+ Metryki Genalodzy - [metryki.genealodzy.pl](https://metryki.genealodzy.pl/)
-+ Metryki Genbaza (do 03.03.2022)- [metryki.genbaza.pl](https://metryki.genbaza.pl/) (wymaga logowania przez konto utworzone na portalu https://www.genpol.com/) 
++ Metryki Genealodzy - [metryki.genealodzy.pl](https://metryki.genealodzy.pl/)
++ Metryki Genbaza - [metryki.genbaza.pl](https://metryki.genbaza.pl/)
 + Nowa Genbaza [indeksy.net](https://indeksy.net/)
 + FamilySearch - [www.familysearch.org/pl](https://www.familysearch.org/pl/)
 + Archiwa Państwowe - [www.szukajwarchiwach.gov.pl](https://www.szukajwarchiwach.gov.pl/)
@@ -114,9 +115,9 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 ## Edycja zdjęć
 + Usuwanie tła [remove.bg](https://www.remove.bg/)
 + Kolorowanie starych zdjęć [colourise.sg](https://colourise.sg/)
-+ Restauracja twarzy na starych zdjęciach [huggingface.co/spaces/akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
 + Kolorowanie i odświeżanie kolorów zdjęć [myheritage.pl/incolor](https://www.myheritage.pl/incolor)
 + Restauracja starych fotografii [https://9may.mail.ru/restoration/?lang=en](https://9may.mail.ru/restoration/?lang=en)
++ Restauracja twarzy na starych zdjęciach [xinntao.github.io/projects/gfpgan](https://xinntao.github.io/projects/gfpgan) lub [huggingface.co/spaces/akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
 
 ## Mapy historyczne
 + Mapire [maps.arcanum.com/en/map/europe-19century-secondsurvey/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org)
