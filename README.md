@@ -74,8 +74,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + FB Polish Genealogy Group - wyszukiwarka indeksów - [polishgenealogy.indeksy.net](https://polishgenealogy.indeksy.net/)
 
 ## Zasoby ze skanami
-+ Metryki Genalodzy - [metryki.genealodzy.pl](https://metryki.genealodzy.pl/)
-+ Metryki Genbaza (do 03.03.2022)- [metryki.genbaza.pl](https://metryki.genbaza.pl/) (wymaga logowania przez konto utworzone na portalu https://www.genpol.com/) 
++ Metryki Genealodzy - [metryki.genealodzy.pl](https://metryki.genealodzy.pl/)
++ Metryki Genbaza - [metryki.genbaza.pl](https://metryki.genbaza.pl/)
 + Nowa Genbaza [indeksy.net](https://indeksy.net/)
 + FamilySearch - [www.familysearch.org/pl](https://www.familysearch.org/pl/)
 + Archiwa Państwowe - [www.szukajwarchiwach.gov.pl](https://www.szukajwarchiwach.gov.pl/)
