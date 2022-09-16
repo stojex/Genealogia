@@ -81,6 +81,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Agad - [agad.gov.pl](https://agad.gov.pl/), Spis zespołów: [agad.gov.pl/?page_id=1599](https://agad.gov.pl/?page_id=1599)
 + Górnośląskie Towarzystwo Genealogiczne [siliusradicum.pl/ksiegi-metrykalne](https://siliusradicum.pl/ksiegi-metrykalne/)
 + Genealogia w Archiwach [www.genealogiawarchiwach.pl](https://www.genealogiawarchiwach.pl/)
++ Cyfrowe Archiwum Archidiecezji Krakowskiej [caak.upjp2.edu.pl](https://caak.upjp2.edu.pl/)
 
 ## Gdzie budować swoje drzewo
 ### Lokalnie na komputrze (offline)
@@ -114,7 +115,8 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Usuwanie tła [remove.bg](https://www.remove.bg/)
 + Kolorowanie starych zdjęć [colourise.sg](https://colourise.sg/)
 + Restauracja twarzy na starych zdjęciach [huggingface.co/spaces/akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
-+ Kolorowanie i odświeżanie kolorów zdjęć [/www.myheritage.pl/incolor](https://www.myheritage.pl/incolor)
++ Kolorowanie i odświeżanie kolorów zdjęć [myheritage.pl/incolor](https://www.myheritage.pl/incolor)
++ Restauracja starych fotografii [https://9may.mail.ru/restoration/?lang=en](https://9may.mail.ru/restoration/?lang=en)
 
 ## Mapy historyczne
 + Mapire [maps.arcanum.com/en/map/europe-19century-secondsurvey/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org)
