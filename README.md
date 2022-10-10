@@ -72,6 +72,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Górnośląskie Towarzystwo Genealogiczne ”Silius Radicum” - [siliusradicum.pl/indeksy-metryk](https://siliusradicum.pl/indeksy-metryk/)
 + Genealogia w Archiwach - [genealogiawarchiwach.pl](https://www.genealogiawarchiwach.pl/)
 + FB Polish Genealogy Group - wyszukiwarka indeksów - [polishgenealogy.indeksy.net](https://polishgenealogy.indeksy.net/)
++ Jamiński Zespół Indeksacyjny [jzi.org.pl/geneo/](https://jzi.org.pl/geneo/)
 
 ## Zasoby ze skanami
 + Metryki Genealodzy - [metryki.genealodzy.pl](https://metryki.genealodzy.pl/)
