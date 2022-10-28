@@ -119,6 +119,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Kolorowanie i odświeżanie kolorów zdjęć [myheritage.pl/incolor](https://www.myheritage.pl/incolor)
 + Restauracja starych fotografii [https://9may.mail.ru/restoration/?lang=en](https://9may.mail.ru/restoration/?lang=en)
 + Restauracja twarzy na starych zdjęciach [xinntao.github.io/projects/gfpgan](https://xinntao.github.io/projects/gfpgan) lub [huggingface.co/spaces/akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
++ Colorize Pictures [palette.fm](https://palette.fm/)
 
 ## Mapy historyczne
 + Mapire [maps.arcanum.com/en/map/europe-19century-secondsurvey/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org)
