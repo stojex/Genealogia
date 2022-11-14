@@ -44,6 +44,8 @@
 Na początku swojej przygody z Genealogią koniecznie trzeba zacząć od rozmowy z rodzicami i dziadkami (lub ich rodzeństwem, jeśli Twoi dziadkowie nie żyją). Informacje, które zbieramy podczas rozmowy to przede wszystkim imiona, nazwiska, miejscowości skąd pochodzili, wiek (lub rok/daty urodzenia) jeśli pamiętają. Wypytujemy również koniecznie o rodzeństwo dziadków/pradziadków itd. Wszystko notujemy! Często w rodzinnych “archiwach” (czytaj pudełku po butach, na strychu ;)) dziadkowie przechowują różne pamiątki rodzinne, akty dokumenty. Pytamy się o to, przeglądamy i jeśli mamy możliwość robimy zdjęcia czy skanujemy. Często możemy znaleźć akty zgonu, czy małżeństwa, w których są cenne dla nas informacje.
 
 ## Cmentarze on-line
+[Wirutalny cmentarz rodzinny - lista zidentyfikowanych nagrobków osób skoligaconych z moją rodziną.](Pages/Wirtualny_cmentarz.md)
+
 Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i zgonów swoich krewnych. Jeśli nie mamy możliwości jechać, można spróbować znaleźć listę grobów w internecie. Przydatne linki poniżej.
 + Grobonet (cała Polska) - [grobonet.com](https://grobonet.com)
 + BillionGraves (cały świat) - [billiongraves.pl](https://billiongraves.pl/)
