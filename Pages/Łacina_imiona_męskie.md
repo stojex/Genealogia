@@ -1,0 +1,1 @@
+[< powrót](Łacina.md)

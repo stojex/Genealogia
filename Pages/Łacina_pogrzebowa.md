@@ -1,3 +1,5 @@
+[< powrót](Łacina.md)
+
 kopia prywatna strony http://genepedia.pl/index.php?title=S%C5%82ownik_terminologii_%22pogrzebowej%22_%C5%82ac.-pol.
 
 # Słownik terminologii "pogrzebowej" łac.-pol.

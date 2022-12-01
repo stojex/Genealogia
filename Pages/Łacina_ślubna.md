@@ -1,3 +1,5 @@
+[< powrót](Łacina.md)
+
 kopia prywatna strony http://genepedia.pl/index.php?title=S%C5%82ownik_terminologii_%E2%80%9E%C5%9Blubnej%E2%80%9D_%C5%82ac.-pol.
 
 # Słownik terminologii „ślubnej” łac.-pol.

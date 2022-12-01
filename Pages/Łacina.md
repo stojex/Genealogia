@@ -1,3 +1,16 @@
+[< główna](../README.md)
+
++ [Indeksacja](Indeksacja_łacina.md)
++ [Łacina ochrzczenia](Łacina_ochrzczenia.md)
++ [Łacina ślubna](Łacina_ślubna.md)
++ [Łacina pogrzebowa](Łacina_pogrzebowa.md)
++ [Łacina chorobowa i przyczyn_zgonu](Łacina_chorobowa_i_przyczyn_zgonu.md)
+
+
++ [Łacina imiona męskie](Łacina_imiona_męskie.md)
++ [Łacina imiona żeńskie](Łacina_imiona_żeńskie.md)
+
+
 # Słownik łaciński
 Moja kopia do własnego użytku zestawienia ze strony: [https://ornatowski.com/](https://ornatowski.com/tlumaczenie-tekstu/slownik-lacinsko-polski/)
 

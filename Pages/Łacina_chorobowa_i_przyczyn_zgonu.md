@@ -1,3 +1,5 @@
+[< powrót](Łacina.md)
+
 kopia prywatna strony http://genepedia.pl/index.php?title=S%C5%82ownik_chor%C3%B3b_i_przyczyn_zgonu_%C5%82ac.-pol.
 
 # Słownik chorób i przyczyn zgonu łac.-pol.

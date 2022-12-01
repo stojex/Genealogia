@@ -1,3 +1,5 @@
+[< główna](../README.md)
+
 # Wirtualny cmentarz
 ## Bardo
 + Stanisławski Ignacy [BillionGraves](https://billiongraves.com/grave/Ignacy-Stanis%C5%82awski-Powstaniec-Wielkopolski-1918%E2%80%931919/32636999)

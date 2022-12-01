@@ -1,3 +1,5 @@
+[< powrót](Łacina.md)
+
 # Słownik dni tygodnia łac.-pol.
 
 Został stworzony do współpracy z szablonami tłumaczenia aktów i dokumentów, na podstawie słownika Genpolu oraz Genealodzy.pl.
@@ -17,7 +19,7 @@ Został stworzony do współpracy z szablonami tłumaczenia aktów i dokumentów
 
 Został stworzony do współpracy z szablonami tłumaczenia aktów i dokumentów, na podstawie słownika Genpolu oraz słówek zaczerpniętych z przetłumaczonych aktów metrykalnych.
 
-Język łaciński | | Język polski |
+| Język łaciński | | Język polski |
 |---|---|---|
 | (hora) 10 ante meridiana | | o (godzina) dziesiąta przed południem (dosłownie: przedpołudniowa) |
 | (hora) 10 mano, albo man, albo mane | | o (godzina) dziesiąta rano |
