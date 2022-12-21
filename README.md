@@ -99,6 +99,17 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 + Geni - [www.geni.com](https://www.geni.com/)
 + FamilySearch - [www.familysearch.org](https://www.familysearch.org/) 
 
+## Wydruk swojego drzewa
+W przygotowaniu 
+
+## Książka genealogiczna - inspiracje
+W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swoje książki genealogiczne. Zebrałem poniżej kilka linków, które mogą być inspiracją dla Ciebie. Wymagane jest uczestnictwo w danej grupie.
+
++ [genealogia.na.kresach](https://www.facebook.com/groups/genealogia.na.kresach)
+    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1359793474762696](https://www.facebook.com/groups/genealogia.na.kresach/posts/1359793474762696) (dostęp 21.12.2022)
+    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1362257424516301](https://www.facebook.com/groups/genealogia.na.kresach/posts/1362257424516301) (dostęp 21.12.2022)
+
+
 ## Przydatne linki w poszukiwaniach
 ### Poszukiwanie miejscowości
 + Wykaz miejscowości [2012 rok] [static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf](https://static.presspublica.pl/red/rp/pdf/prawo/Miejscowo%C5%9Bci_2012.pdf)
