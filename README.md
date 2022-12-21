@@ -101,14 +101,60 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 
 ## Wydruk swojego drzewa
 W przygotowaniu 
+Inspiracje:
++ [https://www.facebook.com/groups/135017640532006/posts/982688369098258/](https://www.facebook.com/groups/135017640532006/posts/982688369098258/)
++ [https://www.facebook.com/groups/135017640532006/posts/939949723372123/](https://www.facebook.com/groups/135017640532006/posts/939949723372123/)
++ [https://www.facebook.com/groups/135017640532006/posts/1002810710419357/](https://www.facebook.com/groups/135017640532006/posts/1002810710419357/)
 
 ## Książka genealogiczna - inspiracje
-W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swoje książki genealogiczne. Zebrałem poniżej kilka linków, które mogą być inspiracją dla Ciebie. Wymagane jest uczestnictwo w danej grupie.
+W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swoje książki genealogiczne. Zebrałem poniżej kilka linków, które mogą być inspiracją dla Ciebie. Wymagane jest uczestnictwo w danej grupie. Wszystkie linki były aktywne 21.12.2022.
 
-+ [genealogia.na.kresach](https://www.facebook.com/groups/genealogia.na.kresach)
-    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1359793474762696](https://www.facebook.com/groups/genealogia.na.kresach/posts/1359793474762696) (dostęp 21.12.2022)
-    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1362257424516301](https://www.facebook.com/groups/genealogia.na.kresach/posts/1362257424516301) (dostęp 21.12.2022)
++ Grupa FB [Genealodzy PL](https://www.facebook.com/groups/135017640532006)
+    + [https://www.facebook.com/groups/135017640532006/posts/765328520834245/](https://www.facebook.com/groups/135017640532006/posts/765328520834245/)
+    + [https://www.facebook.com/groups/135017640532006/posts/685042052196226/](https://www.facebook.com/groups/135017640532006/posts/685042052196226/)
+    + [https://www.facebook.com/groups/135017640532006/posts/885879852112444/](https://www.facebook.com/groups/135017640532006/posts/885879852112444/)
+    + [https://www.facebook.com/groups/135017640532006/posts/819231928777237/](https://www.facebook.com/groups/135017640532006/posts/819231928777237/)
+    + [https://www.facebook.com/groups/135017640532006/posts/639844420049323/](https://www.facebook.com/groups/135017640532006/posts/639844420049323/)
+    + [https://www.facebook.com/groups/135017640532006/posts/595974087769690/](https://www.facebook.com/groups/135017640532006/posts/595974087769690/)
+    + [https://www.facebook.com/groups/135017640532006/posts/944800986220330/](https://www.facebook.com/groups/135017640532006/posts/944800986220330/)
+    + [https://www.facebook.com/groups/135017640532006/posts/931057047594724/](https://www.facebook.com/groups/135017640532006/posts/931057047594724/)
+    + [https://www.facebook.com/groups/135017640532006/posts/935551000478662/](https://www.facebook.com/groups/135017640532006/posts/935551000478662/)
+    + [https://www.facebook.com/groups/135017640532006/posts/1019392548761173/](https://www.facebook.com/groups/135017640532006/posts/1019392548761173/)
+    + [https://www.facebook.com/groups/135017640532006/posts/960768934623535/](https://www.facebook.com/groups/135017640532006/posts/960768934623535/)
+    + [https://www.facebook.com/groups/135017640532006/posts/1019176245449470/](https://www.facebook.com/groups/135017640532006/posts/1019176245449470/)
+    + [https://www.facebook.com/groups/135017640532006/posts/1064801287553632/](https://www.facebook.com/groups/135017640532006/posts/1064801287553632/)
+    + [https://www.facebook.com/groups/135017640532006/posts/713263196040778/](https://www.facebook.com/groups/135017640532006/posts/713263196040778/)
+    + [https://www.facebook.com/groups/135017640532006/posts/926080384759057/](https://www.facebook.com/groups/135017640532006/posts/926080384759057/)
+    + [https://www.facebook.com/groups/135017640532006/posts/1004695503564211/](https://www.facebook.com/groups/135017640532006/posts/1004695503564211/)
+    + [https://www.facebook.com/groups/135017640532006/posts/711355942898170/](https://www.facebook.com/groups/135017640532006/posts/711355942898170/)
+    + [https://www.facebook.com/groups/135017640532006/posts/667169093983522/](https://www.facebook.com/groups/135017640532006/posts/667169093983522/) i do przejrzenia gotowa książka: [https://www.cyfrowa.biblioteka.tuchow.pl/zbiory/34/podglad](https://www.cyfrowa.biblioteka.tuchow.pl/zbiory/34/podglad)
+    + [https://www.facebook.com/groups/135017640532006/posts/931147260919036/](https://www.facebook.com/groups/135017640532006/posts/931147260919036/)
+    + [https://www.facebook.com/groups/135017640532006/posts/711190609581370/](https://www.facebook.com/groups/135017640532006/posts/711190609581370/)
+    + [https://www.facebook.com/groups/135017640532006/posts/944792942887801/](https://www.facebook.com/groups/135017640532006/posts/944792942887801/)
+    + [https://www.facebook.com/groups/135017640532006/posts/622488338451598/](https://www.facebook.com/groups/135017640532006/posts/622488338451598/)
 
++ Grupa FB [Genealodzy PL (z flagą)](https://www.facebook.com/groups/GenealodzyPL)
+    + [https://www.facebook.com/groups/GenealodzyPL/posts/4754899564545277](https://www.facebook.com/groups/GenealodzyPL/posts/4754899564545277)
+
++ Grupa FB [Genealogia wielkopolska](https://www.facebook.com/groups/genealogiawielkopolska)
+    + [https://www.facebook.com/groups/genealogiawielkopolska/permalink/2731157497160418/](https://www.facebook.com/groups/genealogiawielkopolska/permalink/2731157497160418/)
+
++ Grupa FB [genealogia.na.kresach:](https://www.facebook.com/groups/genealogia.na.kresach)
+    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1157814728293906/](https://www.facebook.com/groups/genealogia.na.kresach/posts/1157814728293906/)
+    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1184576635617715/](https://www.facebook.com/groups/genealogia.na.kresach/posts/1184576635617715/)
+    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1359793474762696/](https://www.facebook.com/groups/genealogia.na.kresach/posts/1359793474762696/)
+    + [https://www.facebook.com/groups/genealogia.na.kresach/posts/1362257424516301/](https://www.facebook.com/groups/genealogia.na.kresach/posts/1362257424516301/)
+
++ Grupa FB [Genealogia Małopolska](https://www.facebook.com/groups/1131344810408498)
+    + [https://www.facebook.com/groups/1131344810408498/posts/1763703633839276/](https://www.facebook.com/groups/1131344810408498/posts/1763703633839276/)
+
++ Strony internetowe:
+    + [https://moremaiorum.pl/jak-napisac-ksiazke-rodzinna-poradnik-genealoga/](https://moremaiorum.pl/jak-napisac-ksiazke-rodzinna-poradnik-genealoga/)
+    + [https://poszukiwacze.moremaiorum.pl/oferta/ksiazki-genealogiczne/](https://poszukiwacze.moremaiorum.pl/oferta/ksiazki-genealogiczne/)
+    
+
++ [https://www.facebook.com/miesiecznikmoremaiorum/posts/1933470023484003](https://www.facebook.com/miesiecznikmoremaiorum/posts/1933470023484003)
++ [https://www.facebook.com/weronika.wrobel.motylekwielki/posts/4905886282826310](https://www.facebook.com/weronika.wrobel.motylekwielki/posts/4905886282826310)
 
 ## Przydatne linki w poszukiwaniach
 ### Poszukiwanie miejscowości
