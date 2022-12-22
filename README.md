@@ -40,6 +40,8 @@
 + Opolskie:
     + [Bogacica](Parafie/Bogacica.md)
 
+[Drzewa obce na MH](Pages/Drzewa_obce.md)
+
 ## Od czego zacząć
 Na początku swojej przygody z Genealogią koniecznie trzeba zacząć od rozmowy z rodzicami i dziadkami (lub ich rodzeństwem, jeśli Twoi dziadkowie nie żyją). Informacje, które zbieramy podczas rozmowy to przede wszystkim imiona, nazwiska, miejscowości skąd pochodzili, wiek (lub rok/daty urodzenia) jeśli pamiętają. Wypytujemy również koniecznie o rodzeństwo dziadków/pradziadków itd. Wszystko notujemy! Często w rodzinnych “archiwach” (czytaj pudełku po butach, na strychu ;)) dziadkowie przechowują różne pamiątki rodzinne, akty dokumenty. Pytamy się o to, przeglądamy i jeśli mamy możliwość robimy zdjęcia czy skanujemy. Często możemy znaleźć akty zgonu, czy małżeństwa, w których są cenne dla nas informacje.
 
@@ -101,6 +103,7 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 
 ## Wydruk swojego drzewa
 W przygotowaniu 
+
 Inspiracje:
 + [https://www.facebook.com/groups/135017640532006/posts/982688369098258/](https://www.facebook.com/groups/135017640532006/posts/982688369098258/)
 + [https://www.facebook.com/groups/135017640532006/posts/939949723372123/](https://www.facebook.com/groups/135017640532006/posts/939949723372123/)
