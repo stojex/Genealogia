@@ -1,16 +1,25 @@
+## 09. Niewiara
++ https://www.myheritage.pl/site-family-tree-398783491/morawski
+
 ## 20. Modelski
 + https://www.myheritage.pl/site-family-tree-668724721/wisniewski?rootIndivudalID=1500011&familyTreeID=1
 
+## 21. Łechtański
++ https://www.myheritage.pl/site-family-tree-1455425802/rozet?rootIndivudalID=1500584&familyTreeID=1
+
 ## 25. Wąchnicki
 + https://www.myheritage.pl/site-family-tree-388265262/burt?rootIndivudalID=1500005&familyTreeID=1 szukaj Joseph Sobezak or Sobczak
++ https://www.myheritage.pl/site-family-tree-1492752322/kahn szukaj Stanley Wachnicki
+
 ## 27. Cierzniak
 + https://www.myheritage.pl/site-family-tree-229536141/mira-family-tree?rootIndivudalID=1016038&familyTreeID=1
 
 ## 27b. Miara Miarzyński
 + https://www.myheritage.pl/site-family-tree-229536141/mira-family-tree?rootIndivudalID=1016044&familyTreeID=1
 
-## 33-40 Topoórw
+## 33-40 Toporów
 + https://www.myheritage.pl/site-family-tree-555296971/muller-family-site
+
 ## 51. Bartkowiak
 + https://www.myheritage.pl/site-family-tree-1281650302/bartek
 

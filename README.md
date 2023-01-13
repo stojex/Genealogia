@@ -11,6 +11,7 @@
     + [Gozdowo](Parafie/Gozdowo.md)
     + [Grabienice](Parafie/Grabienice.md)
     + [Kawnice](Parafie/Kawnice.md)
+    + Książ Wielkopolski
     + [Królików](Parafie/Królików.md)
     + [Morzysław](Parafie/Morzysław.md)
     + [Murowana Goślina](Parafie/Murowana_Goślina.md)
@@ -25,6 +26,7 @@
     + [Włoszakowice](Parafie/Włoszakowice.md)
     + [Wszembórz](Parafie/Wszembórz.md)
     + [Zagórów](Parafie/Zagórów.md)
+    + Żegocin
     + [Żerków](Parafie/Żerków.md)
 + Małopolskie:
     + [Imbramowice](Parafie/Imbramowice.md)
