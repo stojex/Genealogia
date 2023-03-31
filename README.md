@@ -110,6 +110,8 @@ Inspiracje:
 + [https://www.facebook.com/groups/135017640532006/posts/982688369098258/](https://www.facebook.com/groups/135017640532006/posts/982688369098258/)
 + [https://www.facebook.com/groups/135017640532006/posts/939949723372123/](https://www.facebook.com/groups/135017640532006/posts/939949723372123/)
 + [https://www.facebook.com/groups/135017640532006/posts/1002810710419357/](https://www.facebook.com/groups/135017640532006/posts/1002810710419357/)
++ [https://www.facebook.com/groups/DrzewoGenealogicznePolakow/posts/518414686239184/](https://www.facebook.com/groups/DrzewoGenealogicznePolakow/posts/518414686239184/)
++ [https://www.facebook.com/groups/DrzewoGenealogicznePolakow/posts/760559585358025/](https://www.facebook.com/groups/DrzewoGenealogicznePolakow/posts/760559585358025/)
 
 ## Książka genealogiczna - inspiracje
 W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swoje książki genealogiczne. Zebrałem poniżej kilka linków, które mogą być inspiracją dla Ciebie. Wymagane jest uczestnictwo w danej grupie. Wszystkie linki były aktywne 21.12.2022.
@@ -137,6 +139,7 @@ W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swo
     + [https://www.facebook.com/groups/135017640532006/posts/711190609581370/](https://www.facebook.com/groups/135017640532006/posts/711190609581370/)
     + [https://www.facebook.com/groups/135017640532006/posts/944792942887801/](https://www.facebook.com/groups/135017640532006/posts/944792942887801/)
     + [https://www.facebook.com/groups/135017640532006/posts/622488338451598/](https://www.facebook.com/groups/135017640532006/posts/622488338451598/)
+    + [https://www.facebook.com/groups/135017640532006/posts/1185988415434918/](https://www.facebook.com/groups/135017640532006/posts/1185988415434918/)
 
 + Grupa FB [Genealodzy PL (z flagą)](https://www.facebook.com/groups/GenealodzyPL)
     + [https://www.facebook.com/groups/GenealodzyPL/posts/4754899564545277](https://www.facebook.com/groups/GenealodzyPL/posts/4754899564545277)
@@ -152,6 +155,9 @@ W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swo
 
 + Grupa FB [Genealogia Małopolska](https://www.facebook.com/groups/1131344810408498)
     + [https://www.facebook.com/groups/1131344810408498/posts/1763703633839276/](https://www.facebook.com/groups/1131344810408498/posts/1763703633839276/)
+
++ Grupa FB [UAGenealogy](https://www.facebook.com/groups/UAGenealogy/)
+    + [https://www.facebook.com/groups/UAGenealogy/posts/6194796237282846/](https://www.facebook.com/groups/UAGenealogy/posts/6194796237282846/)
 
 + Strony internetowe:
     + [https://moremaiorum.pl/jak-napisac-ksiazke-rodzinna-poradnik-genealoga/](https://moremaiorum.pl/jak-napisac-ksiazke-rodzinna-poradnik-genealoga/)
