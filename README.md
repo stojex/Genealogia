@@ -188,3 +188,9 @@ W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swo
 ## Mapy historyczne
 + Mapire [maps.arcanum.com/en/map/europe-19century-secondsurvey/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?bbox=-1072740.920069689%2C5240940.290347475%2C3581968.3543844046%2C6945791.769220046&layers=osm%2C158%2C164&utm_source=Histmag.org)
 + Map of South Prussia - 1802-1803 by Gilly [www.sggee.org/research/gilly_maps/south_prussia_map.html](https://www.sggee.org/research/gilly_maps/south_prussia_map.html)
+
+## Powstańcy Wielkopolscy
++ Książki: Powstańcy wielkopolscy: biogramy uczestników powstania wielkopolskiego 1918-1919 [Wielkopolska Biblioteka Cyfrowa](https://www.wbc.poznan.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Subtitle:%22Biogramy+uczestnik%C3%B3w+powstania+wielkopolskiego+1918%5C-1919%22)
++ WBH Kolekcja akt Powstańców Wielkopolskich [https://wbh.wp.mil.pl/pl/pages/kolekcja-akt-powstancow-wielkopolskich-2023-01-18-a1t3/](https://wbh.wp.mil.pl/pl/pages/kolekcja-akt-powstancow-wielkopolskich-2023-01-18-a1t3/)
+ Instrukcja jak pobrać plik w formacie PDF: [Dokument](https://docs.google.com/document/d/1qIBI0uZzo5YrG71XTx_Lc8MTArpMVC-KOPd95kb236M/edit?usp=sharing)
++ WBH Wyszukiwarka odznaczeń [https://wbh.wp.mil.pl/pl/skanywyszukiwarka_kartoteka_personalno_odznaczeniowa/?strona=15&szufladka=STAD-STAN](https://wbh.wp.mil.pl/pl/skanywyszukiwarka_kartoteka_personalno_odznaczeniowa/?strona=15&szufladka=STAD-STAN)
