@@ -30,5 +30,8 @@
 + https://www.myheritage.pl/site-family-tree-239575651/gr%C4%85bczewska
 + https://www.myheritage.pl/site-family-tree-699748241/grabczewska
 
+## 62. Mizerkiewicz
++ https://www.myheritage.pl/site-family-tree-128043771/agaciak?rootIndivudalID=1500326&familyTreeID=1
+
 ## 64. Lersz
 + https://www.myheritage.pl/site-family-tree-305572011/grygiel?rootIndivudalID=1527215&familyTreeID=1
