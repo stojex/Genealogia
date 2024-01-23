@@ -7,6 +7,10 @@
 ## 21. Łechtański
 + https://www.myheritage.pl/site-family-tree-1455425802/rozet?rootIndivudalID=1500584&familyTreeID=1
 
+## 24. Gałczyński
++ https://www.myheritage.pl/site-family-tree-248417541/spurling?rootIndivudalID=1500037&familyTreeID=1
++ https://www.myheritage.pl/site-family-tree-1620289532/parker?rootIndivudalID=1500014&familyTreeID=1
+
 ## 25. Wąchnicki
 + https://www.myheritage.pl/site-family-tree-388265262/burt?rootIndivudalID=1500005&familyTreeID=1 szukaj Joseph Sobezak or Sobczak
 + https://www.myheritage.pl/site-family-tree-1492752322/kahn szukaj Stanley Wachnicki
