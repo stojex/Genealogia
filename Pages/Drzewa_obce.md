@@ -24,6 +24,9 @@
 ## 33-40 Toporów
 + https://www.myheritage.pl/site-family-tree-555296971/muller-family-site
 
+## 34. Babijczuk
++ https://www.myheritage.pl/site-family-tree-448161781/lenkiewicz?rootIndividualID=1500522&familyTreeID=1
+
 ## 51. Bartkowiak
 + https://www.myheritage.pl/site-family-tree-1281650302/bartek
 
