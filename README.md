@@ -119,6 +119,7 @@ W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swo
 + Wątek ["Jak napisać książkę o swoim rodzie?"](https://genealodzy.pl/PNphpBB2-viewtopic-t-83886-postorder-asc.phtml) na portalu genealodzy.pl: [https://genealodzy.pl/PNphpBB2-viewtopic-t-83886-postorder-asc.phtml](https://genealodzy.pl/PNphpBB2-viewtopic-t-83886-postorder-asc.phtml)
 
 + Grupa FB [Genealodzy PL](https://www.facebook.com/groups/135017640532006)
+    + [https://www.facebook.com/groups/135017640532006/posts/1449381619095595/](https://www.facebook.com/groups/135017640532006/posts/1449381619095595/)
     + [https://www.facebook.com/groups/135017640532006/posts/765328520834245/](https://www.facebook.com/groups/135017640532006/posts/765328520834245/)
     + [https://www.facebook.com/groups/135017640532006/posts/685042052196226/](https://www.facebook.com/groups/135017640532006/posts/685042052196226/)
     + [https://www.facebook.com/groups/135017640532006/posts/885879852112444/](https://www.facebook.com/groups/135017640532006/posts/885879852112444/)

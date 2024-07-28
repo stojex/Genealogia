@@ -1,3 +1,6 @@
+## 01. Stojek
++ https://www.myheritage.pl/site-family-tree-246273971/stojek#person-1500023
+
 ## 09. Niewiara
 + https://www.myheritage.pl/site-family-tree-398783491/morawski
 
