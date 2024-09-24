@@ -1,13 +1,5 @@
 # Genealogia - mój notatnik
 ## Moje regiony zainteresowań
-
-
-| Parafia | Gmina | Powiat |
-|---|---|---|
-| Bardo | Września | wrzesiński |
-| Biechowo |  Września | wrzesiński |
-| Pyzdry | Września | wrzesiński |
-
 + Wielkopolskie:
     + [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
     + Biechowo
