@@ -3,27 +3,34 @@
 
 + Wielkopolskie:
     + [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
-    + [Budzisław](Parafie/Budzisław.md)
+    + Biechowo
     + [Błociszewo](Parafie/Błociszewo.md)
+    + [Budzisław](Parafie/Budzisław.md)
     + [Czacz](Parafie/Czacz.md)
     + [Czeszewo](Parafie/Czeszewo.md)
     + [Gosławice](Parafie/Gosławice.md)
     + [Gozdowo](Parafie/Gozdowo.md)
     + [Grabienice](Parafie/Grabienice.md)
     + [Kawnice](Parafie/Kawnice.md)
-    + Książ Wielkopolski
     + [Królików](Parafie/Królików.md)
+    + Książ Wielkopolski
     + [Morzysław](Parafie/Morzysław.md)
     + [Murowana Goślina](Parafie/Murowana_Goślina.md)
     + [Murzynowo Kościelne](Parafie/Murzynowo_Kościelne.md)
+    + Nietrzanowo
+    + Parkowo
+    + Pyzdry
     + [Rychwał](Parafie/Rychwał.md)
     + [Rzgów](Parafie/Rzgów.md)
+    + Siedlec
     + [Skarboszewo](Parafie/Skarboszewo.md)
     + [Sokolniki (pow. wrzesiński)](Parafie/Sokolniki.md)
     + [Staw (pow. słupecki)](Parafie/Staw.md)
     + [Śmigiel](Parafie/Śmigiel.md)
+    + Targowa Górka
     + [Trąbczyn](Parafie/Trąbczyn.md)
     + [Włoszakowice](Parafie/Włoszakowice.md)
+    + Września
     + [Wszembórz](Parafie/Wszembórz.md)
     + [Zagórów](Parafie/Zagórów.md)
     + Żegocin
