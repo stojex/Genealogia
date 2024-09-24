@@ -2,6 +2,12 @@
 ## Moje regiony zainteresowań
 
 + Wielkopolskie:
+| Parafia | Gmina | Powiat |
+|---|---|---|
+| Bardo | Września | wrzesiński |
+| Biechowo |  Września | wrzesiński |
+| | Września | wrzesiński 
+
     + [Bardo (pow. wrzesiński)](Parafie/Bardo.md)
     + Biechowo
     + [Błociszewo](Parafie/Błociszewo.md)
