@@ -38,11 +38,14 @@ W trakcie przygotowywania
 + O parafii na stronie CAAK [https://caak.upjp2.edu.pl/j/6009567725c80368bfc51da9/s/4/f](https://caak.upjp2.edu.pl/j/6009567725c80368bfc51da9/s/4/f)
 
 ## Mapy
+
++ Europe in the XVIII. century [https://maps.arcanum.com/](https://maps.arcanum.com/en/map/europe-18century-firstsurvey/?layers=here-aerial%2C163%2C165&bbox=2748652.4896999695%2C6463736.944789482%2C2757715.0548660303%2C6467157.501805244)
+
++ Europe in the XIX. century [https://maps.arcanum.com/](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?layers=osm%2C158%2C164&bbox=2748988.6222995636%2C6463875.981413584%2C2758051.1874656244%2C6467296.538429346)
+
 1926 rok:
 ![Toporów 1926](img/toporów_mapa_1926.png)
 1928 rok: 
 ![Toporów 1928](img/toporów_okolice_mapa_1928.png)
 1934 rok:
 ![Toporów 1934](img/toporów_okolice_mapa_1934.png)
-
-Europe in the XVIII. century [https://maps.arcanum.com/](https://maps.arcanum.com/en/map/europe-18century-firstsurvey/?layers=here-aerial%2C163%2C165&bbox=2748652.4896999695%2C6463736.944789482%2C2757715.0548660303%2C6467157.501805244)
