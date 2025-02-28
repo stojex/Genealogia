@@ -44,3 +44,5 @@ W trakcie przygotowywania
 ![Toporów 1928](img/toporów_okolice_mapa_1928.png)
 1934 rok:
 ![Toporów 1934](img/toporów_okolice_mapa_1934.png)
+
+Europe in the XVIII. century [https://maps.arcanum.com/](https://maps.arcanum.com/en/map/europe-18century-firstsurvey/?layers=here-aerial%2C163%2C165&bbox=2748652.4896999695%2C6463736.944789482%2C2757715.0548660303%2C6467157.501805244)
