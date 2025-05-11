@@ -72,12 +72,12 @@ Po rozmowie z rodziną warto wybrać się na cmentarz i spisać daty urodzenia i
 
 ## Zasoby z indeksami
 + Geneteka (cała polska) - [geneteka.genealodzy.pl](https://geneteka.genealodzy.pl/)
-+ Świętokrzyskie Towarzystwo Genealogiczne „Świętogen”: (świętokrzyskie, małopolskie) - [www.genealodzy-kielce.pl/indeksy](http://www.genealodzy-kielce.pl/indeksy/), [swietokrzyskie.indeksy.net](https://swietokrzyskie.indeksy.net/)
-+ Poznan Project (wielkopolska małżeństwa 1800-1899) - [poznan-project.psnc.pl](http://poznan-project.psnc.pl/)
-+ Basia (wielkopolska) - [basia.famula.pl](http://www.basia.famula.pl/)
-+ Slupca Genalogy (okolice Słupcy w wielkopolsce) - [slupcagenealogy.com](https://slupcagenealogy.com/)
-+ Projekt Podlasie (mazowieckie, podlasie) - [indeksy.projektpodlasie.pl](https://indeksy.projektpodlasie.pl/)
-+ Pomorskie Towarzystwo Genealogiczne (pomorskie) - [www.ptg.gda.pl](http://www.ptg.gda.pl/), [pomorskie.indeksy.net](https://pomorskie.indeksy.net/)
++ Świętokrzyskie Towarzystwo Genealogiczne „Świętogen”: (Świętokrzyskie, Małopolskie) - [www.genealodzy-kielce.pl/indeksy](http://www.genealodzy-kielce.pl/indeksy/), [swietokrzyskie.indeksy.net](https://swietokrzyskie.indeksy.net/)
++ Poznan Project (Wielkopolska małżeństwa 1800-1899) - [poznan-project.psnc.pl](http://poznan-project.psnc.pl/)
++ Basia (Wielkopolska) - [basia.famula.pl](http://www.basia.famula.pl/)
++ Slupca Genalogy (okolice Słupcy w Wielkopolsce) - [slupcagenealogy.com](https://slupcagenealogy.com/)
++ Projekt Podlasie (Mazowieckie, Podlasie) - [indeksy.projektpodlasie.pl](https://indeksy.projektpodlasie.pl/)
++ Pomorskie Towarzystwo Genealogiczne (Pomorskie) - [www.ptg.gda.pl](http://www.ptg.gda.pl/), [pomorskie.indeksy.net](https://pomorskie.indeksy.net/)
 + Projekt Warmia (Warmia, Mazury) - [projektwarmia.pl](https://projektwarmia.pl/)
 + Projekt Kurpie - [projektkurpie.pl/wyszukiwarka](https://www.projektkurpie.pl/wyszukiwarka/)
 + Lubgens (lubelskie) - [regestry.lubgens.eu](https://regestry.lubgens.eu/)
@@ -125,6 +125,7 @@ W internecie na grupach genealogicznych na facebook-u wiele osób prezentuje swo
 + Wątek ["Jak napisać książkę o swoim rodzie?"](https://genealodzy.pl/PNphpBB2-viewtopic-t-83886-postorder-asc.phtml) na portalu genealodzy.pl: [https://genealodzy.pl/PNphpBB2-viewtopic-t-83886-postorder-asc.phtml](https://genealodzy.pl/PNphpBB2-viewtopic-t-83886-postorder-asc.phtml)
 
 + Grupa FB [Genealodzy PL](https://www.facebook.com/groups/135017640532006)
+    + [https://www.facebook.com/groups/135017640532006/posts/1652632095437212](https://www.facebook.com/groups/135017640532006/posts/1652632095437212)
     + [https://www.facebook.com/groups/135017640532006/posts/1449381619095595/](https://www.facebook.com/groups/135017640532006/posts/1449381619095595/)
     + [https://www.facebook.com/groups/135017640532006/posts/765328520834245/](https://www.facebook.com/groups/135017640532006/posts/765328520834245/)
     + [https://www.facebook.com/groups/135017640532006/posts/685042052196226/](https://www.facebook.com/groups/135017640532006/posts/685042052196226/)
